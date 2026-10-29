@@ -1,0 +1,16 @@
+Pin Parade Pixel
+Original proportional pixel glyph artwork created for the Pin Parade game.
+
+CC0 1.0 Universal — Public Domain Dedication
+
+To the extent possible under law, the authors have waived all copyright and
+related or neighboring rights to Pin Parade Pixel and its editable glyph source.
+You can copy, modify, distribute and use this work, including for commercial
+purposes, without asking permission. No reserved font names apply.
+
+The work is provided without warranties. For the full legal terms, see:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+No external font, font outline, proprietary typeface or font file was used to
+generate this typeface. Its square glyph patterns and font builder are included
+in build_font.py.
