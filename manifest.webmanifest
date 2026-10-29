@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "Astro Pins",
+  "short_name": "Astro Pins",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#101a2b",
+  "theme_color": "#101a2b",
+  "description": "200 pins del universo. Sobres, álbum y dados.",
+  "icons": [
+    {
+      "src": "astro-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "astro-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
