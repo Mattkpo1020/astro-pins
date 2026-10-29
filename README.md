@@ -1,10 +1,10 @@
 # Astro Pins
 
-Alfa web 0.17.0 de un juego de colección astronómica: 200 pins, sobres, álbum, metas, cosméticos y un minijuego de dados.
+Alfa web 0.17.1 de un juego de colección astronómica: 200 pins, sobres, álbum, metas, cosméticos y un minijuego de dados.
 
 ## Jugar
 
-Abrí la dirección de GitHub Pages del repositorio y esperá «Listo sin conexión» antes de tocar Jugar. La primera visita necesita conexión; después de descargar todos los archivos, el juego puede abrirse sin internet.
+Abrí [Astro Pins](https://mattkpo1020.github.io/astro-pins/) y esperá «Listo sin conexión» antes de tocar Jugar. La primera visita necesita conexión; después de descargar todos los archivos, el juego puede abrirse sin internet.
 
 En iPhone: Safari → Compartir → Agregar a Inicio, con «Abrir como app web» activado. Cada dispositivo guarda su propia partida; no hace falta una cuenta de GitHub para jugar. Las partidas de otra dirección web no se trasladan automáticamente: usá las opciones de respaldo de Ajustes.
 
